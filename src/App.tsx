@@ -71,6 +71,7 @@ const App = () => {
           }
         </div>
       </div>
+      <footer>Desenvolvido por Willian Junior por meio do curso da B7Web.</footer>
     </div>
   )
 }
